@@ -218,4 +218,10 @@ class: center, middle
 * Wikiの機能
 * 自動テストとの連携
 
+--- 
 
+# GitHubと同じようなGitホスティングサービス
+
+- BitBucket
+- GitLab
+- など
