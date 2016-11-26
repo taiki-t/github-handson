@@ -222,6 +222,6 @@ class: center, middle
 
 # GitHubと同じようなGitホスティングサービス
 
-- BitBucket
+- Bitbucket
 - GitLab
 - など
